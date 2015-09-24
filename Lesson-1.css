@@ -1,0 +1,13 @@
+.jtw{
+    color:black;
+    border:1px solid #F00;
+    border-radius: 100px;
+    opacity: 0.1;
+    background: #FF0000;
+    box-sizing: border-box;
+}
+
+.ra{
+    color: blue;
+    width: 100px;
+}
